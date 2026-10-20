@@ -1,0 +1,10 @@
+{
+  "unchanged_since_resume": true,
+  "baseline_files": 199,
+  "changed": [],
+  "completed_files": 29,
+  "issues": 26,
+  "flows": 10,
+  "unresolved_flow_refs": [],
+  "limitation": "No pre-interruption baseline or Git history available. Comparison starts at this resumed build. Hash scope: source/text inventory, excluding private/generated/binary directories."
+}

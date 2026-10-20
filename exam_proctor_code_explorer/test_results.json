@@ -1,0 +1,7 @@
+{
+  "passed": 14,
+  "failed": 0,
+  "method": "Node VM with minimal DOM harness; tests app logic and generated content, not browser rendering",
+  "browser": "file:// preview blocked by browser tool URL policy; no workaround attempted",
+  "standalone_bytes": 509847
+}
